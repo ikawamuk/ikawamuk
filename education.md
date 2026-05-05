@@ -5,7 +5,7 @@ I learned about computer resource management, data structures, and algorithms th
 2. Experience in code review and team development
 Through peer reviews and team development projects, I acquired foundational skills ranging from the upstream to downstream of software development, focusing on source code readability and clear software design. I also gained essential skills for team development using Git and GitHub.
 3. Self-reliance in environments without instructors
-By starting development with only specifications provided, I gained experience in conducting research, defining requirements, designing, implementing, testing, and managing schedules independently.
+By starting development with only specifications provided, I gained experience in conducting research, defining requirements, designing, implementing, testing, and managing schedules independently.  
 
 
 1. 実践的な開発を通じたコンピュータサイエンスの基礎習得
