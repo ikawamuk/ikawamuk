@@ -1,2 +1,3 @@
 # ikawamuk
 - [Project Experience](https://github.com/ikawamuk/ikawamuk/blob/main/project_experience.md)
+- [Education](https://github.com/ikawamuk/ikawamuk/blob/main/education.md)
