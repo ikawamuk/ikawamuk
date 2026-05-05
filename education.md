@@ -7,7 +7,7 @@ Through peer reviews and team development projects, I acquired foundational skil
 3. Self-reliance in environments without instructors
 By starting development with only specifications provided, I gained experience in conducting research, defining requirements, designing, implementing, testing, and managing schedules independently.  
 
-
+---
 1. 実践的な開発を通じたコンピュータサイエンスの基礎習得
 シェルやWebサーバーを一から開発し、直接システムコールを呼び出すなどの実践を通じて、コンピュータのリソース管理、データ構造、アルゴリズムについて学びました。
 2. コードレビューおよびチーム開発の経験
