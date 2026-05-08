@@ -3,11 +3,12 @@
 - Period:2026/4 ~ 2026/6
 - Technologies:C++
 - Description:
-	- Summary:A collaborative project (team of 2) to develop a high-performance HTTP/1.1 web server using C++98 and event-driven I/O.
+	- Summary:A collaborative project (team of 2) to develop a HTTP/1.0 web server using C++98 and event-driven I/O.
 	- Objective and Approaches:
 		- Designed and implemented a robust HTTP request parser using a state machine to handle fragmented or large payloads efficiently.
 		- Utilized I/O multiplexing (epoll/kqueue) to manage multiple concurrent client connections without blocking.
-		- Ensured strict RFC compliance for header validation and chunked transfer encoding.
+		- Implemented CGI (Common Gateway Interface) to support the execution of external scripts and the generation of dynamic responses.
+		- Header validation based on RFC standards and implementation of basic HTTP communication protocols.
 
 ## Reimplementing a C compiler
 - Period:2026/1 ~
@@ -25,7 +26,7 @@
 - Description:
 	- Summary:A deep dive into the concept of self-replicating programs (Quines) to explore the limits of source code and execution.
 	- Objective and Approaches:
-		- Researched and implemented the mathematical logic of self-replication without using external file I/O.
+		- Implemented the mathematical logic of self-replication without using external file I/O.
 		- Explored the use of ASCII character codes and formatting strings to allow a program to output its own source code exactly.
 
 ## 3D renderer using path tracing
@@ -34,7 +35,7 @@
 - Description:
 	- Summary:A collaborative engine (team of 2) for rendering 3D scenes using raytracing and light transport simulation.
 	- Objective and Approaches:
-		- Designed and implemented the core light transport system, including Phong reflection models and shadow calculation.
+		- Built a rendering engine using path tracing and implemented calculations for light interaction and shadows.
 		- Developed geometric intersection algorithms for primitives like spheres, cylinders, and triangles using vector calculus.
 		- Achieved realistic visual effects through ray-object interaction and material properties.
 
