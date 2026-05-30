@@ -14,7 +14,7 @@
 - Period:2026/1 ~
 - Technologies:C
 - Description:
-	- Summary:Developing a self-hosting C compiler that targets x86-64 assembly, focusing on understanding language internals and code generation.
+	- Summary:Developing a C compiler that targets x86-64 assembly, focusing on understanding language internals and code generation.
 	- Objective and Approaches:
 		- Implemented a recursive descent parser to construct Abstract Syntax Trees (AST) from C source code.
 		- Managed stack frame allocation and local variable scoping for x86-64 Linux environments.
@@ -76,7 +76,7 @@
 - 期間: 2026年1月 ～
 - 使用技術: C
 - 内容:
-	- 概要: x86-64アセンブリをターゲットとしたセルフホスト可能なCコンパイラを開発。言語の内部構造とコード生成の理解に重点を置く。
+	- 概要: x86-64アセンブリをターゲットとしたCコンパイラを開発。言語の内部構造とコード生成の理解に重点を置く。
 	- 目的とアプローチ:
 		- 再帰下降構文解析器を実装し、Cソースコードから抽象構文木（AST）を構築。
 		- x86-64 Linux環境におけるスタックフレームの割り当てとローカル変数のスコープを管理。
