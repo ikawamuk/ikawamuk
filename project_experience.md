@@ -3,7 +3,7 @@
 - Period:2026/4 ~ 2026/6
 - Technologies:C++
 - Description:
-	- Summary:A collaborative project (team of 2) to develop a HTTP/1.0 web server using C++98 and event-driven I/O.
+	- Summary:A collaborative project (team of 3) to develop a HTTP/1.0 web server using C++98 and event-driven I/O.
 	- Objective and Approaches:
 		- Designed and implemented a robust HTTP request parser using a state machine to handle fragmented or large payloads efficiently.
 		- Utilized I/O multiplexing (epoll/kqueue) to manage multiple concurrent client connections without blocking.
@@ -65,7 +65,7 @@
 - 期間: 2026年4月 ～ 2026年6月
 - 使用技術: C++
 - 内容:
-	- 概要: C++98とイベント駆動型I/Oを用いた、HTTP/1.0 Webサーバーを開発する共同プロジェクト（2名体制）。
+	- 概要: C++98とイベント駆動型I/Oを用いた、HTTP/1.0 Webサーバーを開発する共同プロジェクト（3名体制）。
 	- 目的とアプローチ:
 		- ステートマシンを用いて、断片化されたデータや大きなペイロードを効率的に処理する堅牢なHTTPリクエストパーサーを設計・実装。
 		- I/O多重化（epoll/kqueue）を活用し、ブロッキングなしで複数のクライアント接続を同時に管理。
